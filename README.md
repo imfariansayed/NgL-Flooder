@@ -2,6 +2,8 @@
 
 **NgL-Flooder** is a multiprocess and proxy-enabled tool designed to flood a user's NGL account with a large volume of messages per minute. Utilizing the `requests` module, this tool is compatible with Python versions up to 3.x.
 
+# Replace inactive proxies with active ones
+
 ## Why I Made This Tool
 One day, I was very upset when my crush posted on Facebook with her NGL link, and some people sent her love messages, making me jealous.
 
