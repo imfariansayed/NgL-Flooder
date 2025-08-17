@@ -5,7 +5,7 @@
 # Replace inactive proxies with active ones
 
 ## Why I Made This Tool
-One day, I was very upset when my crush posted on Facebook with her NGL link, and some people sent her love messages, making me jealous.
+One day, my crush shared her NGL link on Facebook, and when people started sending her love messages, I felt jealous. That’s when I decided to make a tool to flood her NGL.
 
 ## Update
 Hey everyone, I wanted to let you all know that my crush and I have parted ways for good as of 8/17/2024. I will truly miss her. If parallel universes exist, I hope my other self finds her and loves her deeply in that world. For now, I'll hold onto the memories we shared. I pray that she achieves her goals and finds happiness, free from pain and sadness.
